@@ -30,6 +30,9 @@ Or optionally, expose the db0 connection on a port of your choice:
 - Accessible over network if needed
 - Pure Python3
 
+## Improvements (pull requests welcome)
+- Dump and load table to filesystem
+
 ## Dependencies:
 - [tabulate](https://pypi.org/project/tabulate/) - for printing out the table neatly.
 
